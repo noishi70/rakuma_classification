@@ -1,0 +1,2 @@
+# rakuma_classification
+タイトルから商品のカテゴリを分類するモデル
